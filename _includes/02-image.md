@@ -1,1 +1,1 @@
-[Tech image](https://www.shutterstock.com/image-illustration/abstract-background-molecules-technology-polygonal-shapes-1490389355)
+![Tech image](https://developers.google.com/speed/webp/gallery1)
