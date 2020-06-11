@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Tech image](https://www.shutterstock.com/image-illustration/abstract-background-molecules-technology-polygonal-shapes-1490389355)
