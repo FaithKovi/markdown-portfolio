@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Faith Kovi's Awesome Attributes**
+_They include:_
+* Team work:+1:
+* Skills:sparkles:
+   * *Python
+   * *Git
+   * *GitHub
