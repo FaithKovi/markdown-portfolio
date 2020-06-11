@@ -1,1 +1,1 @@
-! [Tech image](https://developers.google.com/speed/webp/gallery1)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png
